@@ -6,6 +6,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandreohiro&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreohiro&layout=compact&theme=dark)
+![Top Languages](github-readme-stats.vercel.app)
 
 ##  Linguagens e Tecnologias
 
